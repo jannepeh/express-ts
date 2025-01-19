@@ -33,13 +33,13 @@ This project is an example of an Express.js application using TypeScript and SQL
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ilkkamtk/express-ts-sqlite.git
+   git clone https://github.com/jannepeh/express-ts.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd express-ts-sqlite
+   cd express-ts
    ```
 
 3. Install the dependencies:
