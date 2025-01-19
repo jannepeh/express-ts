@@ -67,6 +67,11 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ### Contributors
 
 - [ilkkamtk](https://github.com/ilkkamtk) - Original Author
+- [jannepeh](https://github.com/jannepeh) - Student
+
+## Screenshot for the tests
+
+![Tests](screenshot/ss.png)
 
 ## License
 
